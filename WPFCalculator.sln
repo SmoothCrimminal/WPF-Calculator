@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFCalculator", "WPFCalculator\WPFCalculator.csproj", "{8D41CE45-310B-49BF-B3A6-8B760956B7BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Calculator\Calculator.csproj", "{7BCB1761-DECB-4FC3-9AA6-7CDB87DCA0C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D41CE45-310B-49BF-B3A6-8B760956B7BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D41CE45-310B-49BF-B3A6-8B760956B7BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D41CE45-310B-49BF-B3A6-8B760956B7BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D41CE45-310B-49BF-B3A6-8B760956B7BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BCB1761-DECB-4FC3-9AA6-7CDB87DCA0C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BCB1761-DECB-4FC3-9AA6-7CDB87DCA0C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BCB1761-DECB-4FC3-9AA6-7CDB87DCA0C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BCB1761-DECB-4FC3-9AA6-7CDB87DCA0C2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6177D772-E723-416F-916E-073B66869680}
+	EndGlobalSection
+EndGlobal
